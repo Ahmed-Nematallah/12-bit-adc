@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+SAR ADC, sample outputs the previous sample and starts the next sample
 
 ## How to test
 
-Explain how to use your project
+Bits maybe active low, please check
 
 ## External hardware
 
