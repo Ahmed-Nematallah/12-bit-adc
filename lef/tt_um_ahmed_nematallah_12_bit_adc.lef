@@ -52,17 +52,17 @@ MACRO tt_um_ahmed_nematallah_12_bit_adc
         RECT 38.270 15.400 155.570 16.340 ;
         RECT 38.265 15.110 38.495 15.400 ;
         RECT 44.230 14.900 155.570 15.400 ;
-        RECT 149.800 0.000 155.570 14.900 ;
+        RECT 149.800 5.930 155.570 14.900 ;
       LAYER met2 ;
         RECT 98.430 54.510 108.000 55.510 ;
         RECT 98.430 54.050 99.430 54.510 ;
         RECT 100.240 29.730 108.000 30.730 ;
         RECT 100.240 29.180 101.240 29.730 ;
-        RECT 149.800 1.000 155.570 5.740 ;
+        RECT 150.790 5.930 154.390 10.670 ;
       LAYER met3 ;
-        RECT 149.800 1.000 155.570 5.740 ;
+        RECT 150.790 5.930 154.390 10.670 ;
       LAYER met4 ;
-        RECT 149.800 1.000 155.570 5.740 ;
+        RECT 150.790 1.000 154.390 10.670 ;
         RECT 151.810 0.000 152.710 1.000 ;
     END
   END ua[0]
@@ -71,7 +71,8 @@ MACRO tt_um_ahmed_nematallah_12_bit_adc
     USE SIGNAL ;
     PORT
       LAYER met4 ;
-        RECT 132.490 0.000 133.390 1.600 ;
+        RECT 131.730 1.000 134.240 2.600 ;
+        RECT 132.490 0.000 133.390 1.000 ;
     END
   END ua[1]
   PIN ua[2]
@@ -79,7 +80,8 @@ MACRO tt_um_ahmed_nematallah_12_bit_adc
     USE SIGNAL ;
     PORT
       LAYER met4 ;
-        RECT 113.170 0.000 114.070 1.600 ;
+        RECT 112.430 1.000 114.940 2.600 ;
+        RECT 113.170 0.000 114.070 1.000 ;
     END
   END ua[2]
   PIN ua[3]
@@ -87,7 +89,8 @@ MACRO tt_um_ahmed_nematallah_12_bit_adc
     USE SIGNAL ;
     PORT
       LAYER met4 ;
-        RECT 93.850 0.000 94.750 1.600 ;
+        RECT 93.030 1.000 95.540 2.600 ;
+        RECT 93.850 0.000 94.750 1.000 ;
     END
   END ua[3]
   PIN ua[4]
@@ -95,7 +98,8 @@ MACRO tt_um_ahmed_nematallah_12_bit_adc
     USE SIGNAL ;
     PORT
       LAYER met4 ;
-        RECT 74.530 0.000 75.430 1.600 ;
+        RECT 73.740 1.000 76.250 2.600 ;
+        RECT 74.530 0.000 75.430 1.000 ;
     END
   END ua[4]
   PIN ua[5]
@@ -103,7 +107,7 @@ MACRO tt_um_ahmed_nematallah_12_bit_adc
     USE SIGNAL ;
     PORT
       LAYER met4 ;
-        RECT 55.210 0.000 56.110 1.600 ;
+        RECT 55.210 0.000 56.110 1.000 ;
     END
   END ua[5]
   PIN ua[6]
