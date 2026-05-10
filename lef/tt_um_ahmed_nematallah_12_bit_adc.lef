@@ -36,6 +36,7 @@ MACRO tt_um_ahmed_nematallah_12_bit_adc
     USE SIGNAL ;
     ANTENNAGATEAREA 0.450000 ;
     PORT
+      LAYER met4 ;
         RECT 151.810 0.000 152.710 1.000 ;
     END
   END ua[0]
